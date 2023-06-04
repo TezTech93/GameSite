@@ -1,0 +1,27 @@
+html,body{
+    background-color: midnightblue;
+}
+
+.navbar{
+    color: #fff;
+}
+
+.container1{
+    background-color: midnightblue;
+    margin-top: 15px;
+}
+
+.gameBox{
+    height:180px;
+    border: 1px solid black !important;
+}
+
+.container-fluid{
+    padding-left: 0rem;
+    padding-right: 0rem;
+    overflow: hidden;
+  }
+
+.row {
+    padding: 15px 5px;
+}
